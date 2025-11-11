@@ -7,7 +7,7 @@ title: Methodology Assignment 4 – Task 2
 Michael Vasandani — mvasandani@ucsd.edu
 
 **Section & Mentor**  
-B22— Mentor: Dr. Someone
+B22— Mentor: Dr. Smarr
 
 ---
 
